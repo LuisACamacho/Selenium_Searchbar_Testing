@@ -1,0 +1,1 @@
+# The purpose of the project was to use unittest framework to create testcases in a organized matter and used the HTMLRunner to save test results in Html files, for human readable presentation of results. The automation testing was conducted in the Google search engine. The process of the testing was adding the text to the searchbar, then clicking the "Google Search" button. 
